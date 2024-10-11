@@ -28,13 +28,21 @@
  - Файл: EDA.html [https://github.com/vskcreator/pandas_rent_real_estate/blob/main/project/5.realises/EDA.html]
 -------
 ### Релиз 2.0
-- Файл: preprocessing.ipynb [https://github.com/vskcreator/pandas_rent_real_estate/blob/main/project/5.realises/preprocessing.ipynb]
-- Файл: data.csv [https://github.com/vskcreator/pandas_rent_real_estate/blob/main/project/5.realises/data.csv]
+- Итоги работы:
+  - Детально показан процесс обработки данных
+  - Обработаны пропущенные значения (NaN, None...)
+  - Данные были зачищены от выбросов
+  - Названия колонок перевелены на английский язык по запрошенному формату
+  - По усмотрению команды, файл удовлетворяет всем запрошенным условиям по Релизу 2.0 и Релизу 3.0
 ### Релиз 2.0 оформлен.
-- Детально показан процесс обработки данных
-- Обработаны пропущенные значения (NaN, None...)
-- Данные были зачищены от выбросов
-- Названия колонок перевелены на английский язык по запрошенному формату
-- По усмотрению команды, файл удовлетворяет всем запрошенным условиям по Релизу 2.0 и Релизу 3.0
+- Файл: preprocessing.ipynb []
+- Файл: data.csv [https://github.com/vskcreator/pandas_rent_real_estate/blob/main/project/5.realises/data.csv]
 -------
 ### Релиз 3.0
+- Итоги работы:
+  - Проведена кодировка
+  - Удалены дубликаты объявлений
+  - Оформлена аналитика финальных данных
+### Релиз 3.0 оформлен.
+- Файл: teamname_data.csv []
+- Файл: preprocessing.ipynb []
