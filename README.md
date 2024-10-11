@@ -24,9 +24,17 @@
   - График рассеяния: квартпалат, общая площадь, предоплата, срок аренды (естественным образом наибольшее количество данных с длительной арендой)
   - Отобразили зависимость стоимости аренды от количества этажей в доме
 ### Релиз 1.0 оформлен.
- - Файл: EDA.ipynb [https://github.com/vskcreator/pandas_rent_real_estate/blob/main/project/EDA.ipynb]
- - Файл: EDA.html [https://github.com/vskcreator/pandas_rent_real_estate/blob/main/project/EDA.html]
+ - Файл: EDA.ipynb [https://github.com/vskcreator/pandas_rent_real_estate/blob/main/project/5.realises/EDA.ipynb]
+ - Файл: EDA.html [https://github.com/vskcreator/pandas_rent_real_estate/blob/main/project/5.realises/EDA.html]
 -------
 ### Релиз 2.0
-- - (in process) preprocessing.ipynb - jupyter notebook файл, где показан процесс обработки данных
-  - (in process) data.csv - колонки на английском в правильном формате, отсутствие данных (NaN, None...)
+- Файл: preprocessing.ipynb [https://github.com/vskcreator/pandas_rent_real_estate/blob/main/project/5.realises/EDA.ipynb]
+- Файл: data.csv []
+### Релиз 2.0 оформлен.
+- Детально показан процесс обработки данных
+- Обработаны пропущенные значения (NaN, None...)
+- Данные были зачищены от выбросов
+- Названия колонок перевелены на английский язык по запрошенному формату
+- По усмотрению команды, файл удовлетворяет всем запрошенным условиям по Релизу 2.0 и Релизу 3.0
+-------
+### Релиз 3.0
