@@ -35,7 +35,7 @@
   - Названия колонок перевелены на английский язык по запрошенному формату
   - По усмотрению команды, файл удовлетворяет всем запрошенным условиям по Релизу 2.0 и Релизу 3.0
 ### Релиз 2.0 оформлен.
-- Файл: preprocessing.ipynb []
+- Файл: preprocessing.ipynb [https://github.com/vskcreator/pandas_rent_real_estate/blob/main/project/5.realises/preprocessing.ipynb]
 - Файл: data.csv [https://github.com/vskcreator/pandas_rent_real_estate/blob/main/project/5.realises/data.csv]
 -------
 ### Релиз 3.0
@@ -44,5 +44,5 @@
   - Удалены дубликаты объявлений
   - Оформлена аналитика финальных данных
 ### Релиз 3.0 оформлен.
-- Файл: teamname_data.csv []
-- Файл: preprocessing.ipynb []
+- Файл: teamname_data.csv [https://github.com/vskcreator/pandas_rent_real_estate/blob/main/project/5.realises/pandas_data.csv]
+- Файл: preprocessing.ipynb [https://github.com/vskcreator/pandas_rent_real_estate/blob/main/project/5.realises/preprocessing.ipynb]
