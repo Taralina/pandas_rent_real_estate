@@ -28,8 +28,8 @@
  - Файл: EDA.html [https://github.com/vskcreator/pandas_rent_real_estate/blob/main/project/5.realises/EDA.html]
 -------
 ### Релиз 2.0
-- Файл: preprocessing.ipynb [https://github.com/vskcreator/pandas_rent_real_estate/blob/main/project/5.realises/EDA.ipynb]
-- Файл: data.csv []
+- Файл: preprocessing.ipynb [https://github.com/vskcreator/pandas_rent_real_estate/blob/main/project/5.realises/preprocessing.ipynb]
+- Файл: data.csv [https://github.com/vskcreator/pandas_rent_real_estate/blob/main/project/5.realises/data.csv]
 ### Релиз 2.0 оформлен.
 - Детально показан процесс обработки данных
 - Обработаны пропущенные значения (NaN, None...)
